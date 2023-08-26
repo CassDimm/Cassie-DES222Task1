@@ -81,11 +81,6 @@ img {
     text-align: center;
 }
 
-.image-two {
-    object-fit: cover;
-    width: 100%;
-}
-
 .presentbanner {
     display: flex;
     background-color: var(--purple);
