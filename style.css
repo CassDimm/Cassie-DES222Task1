@@ -259,7 +259,7 @@ img {
     " .   .   .   . " minmax(2em, auto)
     "ba4 ba4 ba4 ba4" minmax(4em, auto)
     " .   .   .   . " minmax(2em, auto)
-    "pa3 pa3 pa3 pa3" minmax(2em, auto)
+    "pa3 pa3 pa3 pa3" minmax(4em, auto)
     " .   .   .   . " minmax(2em, auto)
     "im7 im7 im7 im7" minmax(14em, auto)
     " .   .   .   . " minmax(1em, auto)
@@ -291,7 +291,7 @@ img {
             " .   .   .   .   .   .   .   . " minmax(2em, auto)
             "ba4 ba4 ba4 ba4 ba4 ba4 ba4 ba4" minmax(4em, auto)
             " .   .   .   .   .   .   .   . " minmax(2em, auto)
-            " .  pa3 pa3 pa3 pa3 pa3 pa3  . " minmax(2em, auto)
+            "pa3 pa3 pa3 pa3 pa3 pa3 pa3 pa3" minmax(2em, auto)
             " .   .   .   .   .   .   .   . " minmax(2em, auto)
             "im7 im7 im7 im7 im8 im8 im8 im8" minmax(16em, auto)
     }
@@ -320,7 +320,7 @@ img {
         " .   .   .   .   .   .   .   .   .   .   .   . " minmax(2em, auto)
         "ba4 ba4 ba4 ba4 ba4 ba4 ba4 ba4 ba4 ba4 ba4 ba4" minmax(4em, auto)
         " .   .   .   .   .   .   .   .   .   .   .   . " minmax(2em, auto)
-        " .   .   .  pa3 pa3 pa3 pa3 pa3 pa3  .   .   . " minmax(2em, auto)
+        " .   .  pa3 pa3 pa3 pa3 pa3 pa3 pa3 pa3  .   . " minmax(2em, auto)
         " .   .   .   .   .   .   .   .   .   .   .   . " minmax(2em, auto)
         "im7 im7 im7 im7 im7 im7 im8 im8 im8 im8 im8 im8" minmax(24em, auto)
     }
